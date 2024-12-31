@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_5.m3u8?md5=JRZ1jBP3PQDhs771wOVYMw&e=1734540186&hls_proxy_host=70b013ca21e8364cd537747cf862272b"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Audio",LANGUAGE="eng",DEFAULT=YES,AUTOSELECT=YES,URI="https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_5.m3u8?md5=cVOglErhAvQ5wqAvdwrnxg&e=1735703245&hls_proxy_host=70b013ca21e8364cd537747cf862272b"
 #EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1920x1080,AUDIO="audio"
-https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_4.m3u8?md5=JRZ1jBP3PQDhs771wOVYMw&e=1734540186&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_4.m3u8?md5=cVOglErhAvQ5wqAvdwrnxg&e=1735703245&hls_proxy_host=70b013ca21e8364cd537747cf862272b
